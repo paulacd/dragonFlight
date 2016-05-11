@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 416836467acd34387840ccc7990491cf
+timeCreated: 1457576360
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - grayCloud: {fileID: 107186, guid: aacd1600c147646498fe5b85f1ca9a32, type: 2}
+  - whiteCloud: {fileID: 175692, guid: 3d576f5277c1649b79bddfc9d5c244ab, type: 2}
+  - dragon: {fileID: 160386, guid: faa18f077979d4cc2babe294aed69e28, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
